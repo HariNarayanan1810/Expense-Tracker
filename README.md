@@ -4,3 +4,9 @@ with the package included [intl , hive_flutter , build_runner , hive_generator]
 Finally to use this app as an apk file 
 flutter build apk --release to run in our physical device through apk
 
+Here is the demo of my project , shows how it works
+
+https://github.com/user-attachments/assets/24fd6f4b-0c5c-418a-a305-de017f920ddf
+
+
+
