@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Download Expense Tracker : https://github.com/HariNarayanan1810/Expense-Tracker/releases/tag/v1.0
+Download Expense Tracker : https://github.com/HariNarayanan1810/Expense-Tracker/releases/tag/v1.1
+
